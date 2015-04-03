@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "здрасте приехали Jekyll!"
 date:   2015-04-03 14:16:39
 categories: jekyll update
 ---
@@ -14,7 +14,7 @@ Jekyll also offers powerful support for code snippets:
 def print_hi(name)
   puts "Hi, #{name}"
 end
-print_hi('Tom')
+print_hi('Вася')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
